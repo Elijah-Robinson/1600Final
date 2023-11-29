@@ -23,7 +23,7 @@ This tutorial caters to students who are relatively new to programming and seek 
 ## Table of Contents
 
 1. [Introduction to Git](introduction.md)
-2. [Getting Started with Git](Getting_Started_with_Git.md)
+2. [Getting Started with Git](Getting_Started_With_Git.md)
 3. [Basic Git Commands](Basic_Git_Commands.md)
 4. [Best Practices](Best_Practices.md)
 5. [Conclusion](Conclusion.md)

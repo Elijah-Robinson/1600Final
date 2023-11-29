@@ -21,3 +21,13 @@ Git, with its diverse set of commands and functionalities, offers a robust versi
 By continuously using Git and exploring its capabilities further, you will refine your skills and develop a more comprehensive understanding of version control and collaboration in software development.
 
 Happy coding!
+
+
+
+## Table of Contents
+
+1. [Introduction to Git](introduction.md)
+2. [Getting Started with Git](Getting_Started_With_Git.md)
+3. [Basic Git Commands](Basic_Git_Commands.md)
+4. [Best Practices](Best_Practices.md)
+5. [Conclusion](Conclusion.md)

@@ -53,3 +53,13 @@ Git is a powerful version control system used by developers worldwide. Following
 - **Benefits:** Increases efficiency, minimizes errors, and enhances collaboration.
 
 These best practices aim to streamline development, improve collaboration, and maintain a healthy repository. Adapting these practices can significantly enhance your Git workflow.
+
+
+## Table of Contents
+
+1. [Introduction to Git](introduction.md)
+2. [Getting Started with Git](Getting_Started_With_Git.md)
+3. [Basic Git Commands](Basic_Git_Commands.md)
+4. [Best Practices](Best_Practices.md)
+5. [Conclusion](Conclusion.md)
+

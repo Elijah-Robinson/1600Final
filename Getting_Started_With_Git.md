@@ -46,3 +46,14 @@ To clone an existing repository:
 
 - Use `git clone <repository_URL>`.
 - Replace `<repository_URL>` with the URL of the repository you want to clone.
+
+
+
+
+## Table of Contents
+
+1. [Introduction to Git](introduction.md)
+2. [Getting Started with Git](Getting_Started_With_Git.md)
+3. [Basic Git Commands](Basic_Git_Commands.md)
+4. [Best Practices](Best_Practices.md)
+5. [Conclusion](Conclusion.md)

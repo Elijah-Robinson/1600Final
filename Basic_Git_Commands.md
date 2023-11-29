@@ -7,9 +7,8 @@
 **How to Execute:**
 To add specific files:
 
-```bash
-git add <file_name>
 
+git add <file_name>
 #Git commit command
 
 ## Commit
@@ -17,7 +16,7 @@ git add <file_name>
 **Description:** Commits staged changes with a descriptive message.
 
 **How to Execute:**
-```bash
+
 git commit -m "Your commit message here"
 
 # Git Pull Command
@@ -27,7 +26,6 @@ git commit -m "Your commit message here"
 **Description:** Fetches changes from a remote repository and merges them into the current branch.
 
 **How to Execute:**
-```bash
 git pull origin main
 
 # Git Push Command
@@ -37,7 +35,7 @@ git pull origin main
 **Description:** Pushes committed changes to a remote repository.
 
 **How to Execute:**
-```bash
+
 git push origin main
 
 # Git Branch Command
@@ -48,7 +46,7 @@ git push origin main
 
 **How to Execute:**
 To list branches:
-```bash
+
 git branch
 
 # Creating a New Branch in Git
@@ -59,7 +57,7 @@ git branch
 
 **How to Execute:**
 To create a new branch:
-```bash
+
 git branch <branch_name>
 
 # Deleting a Branch in Git
@@ -70,7 +68,7 @@ git branch <branch_name>
 
 **How to Execute:**
 To delete a branch:
-```bash
+
 git branch -d <branch_name>
 
 
@@ -82,5 +80,15 @@ git branch -d <branch_name>
 
 **How to Execute:**
 To merge changes into the current branch:
-```bash
+
 git merge <branch_name>
+
+
+
+## Table of Contents
+
+1. [Introduction to Git](introduction.md)
+2. [Getting Started with Git](Getting_Started_With_Git.md)
+3. [Basic Git Commands](Basic_Git_Commands.md)
+4. [Best Practices](Best_Practices.md)
+5. [Conclusion](Conclusion.md)
